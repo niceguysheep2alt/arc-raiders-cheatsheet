@@ -1,29 +1,53 @@
-This project is a gameplay assistance and analysis tool designed for research, testing, and educational purposes within ARC Raiders. It focuses on improving situational awareness, aiming consistency, and gameplay analysis in complex extraction scenarios.
+🎮 Gameplay Assistance Tool for ARC Raiders
 
-The tool provides a configurable visual overlay system that helps analyze in-game environments, entities, and encounters. By visualizing key elements on screen, users can better understand map flow, enemy behavior, and engagement timing.
+This repository contains a gameplay assistance & analysis tool created for educational, testing, and research purposes.
+The project focuses on improving situational awareness, aim consistency, and gameplay analysis in complex extraction-based environments.
 
-Key Modules
+ARC Raiders offers large open maps, dynamic encounters, and high-risk decision-making. This tool helps visualize and analyze in-game situations, making it easier to study positioning, movement, and encounter flow during practice and testing sessions 🧠📊
 
-Awareness Overlay
-Displays relevant in-game entities and distances to help analyze positioning and movement patterns.
+✨ Key Features
 
-Aim Assistance Module
-A configurable aiming support system designed to improve consistency during testing and practice sessions.
+🔍 Awareness Overlay
+A visual overlay system that displays relevant in-game entities and distances. Useful for analyzing positioning, movement patterns, and engagement timing.
 
-Object & Loot Visualization
-Highlights important in-game objects to assist with route planning and efficiency analysis.
+🎯 Aim Assistance Module
+A configurable aim-support module designed to improve consistency during training and controlled testing scenarios. Adjustable parameters allow fine-tuning for different playstyles.
 
-Event & Proximity Alerts
-Provides notifications when entities enter specific ranges, useful for behavioral and reaction-time testing.
+📦 Object & Loot Visualization
+Highlights important objects and items to help with route planning, map understanding, and efficiency analysis during raids.
 
-Design Goals
+⚠️ Proximity & Event Alerts
+Notifications when entities enter defined ranges. Helpful for reaction-time testing and studying encounter dynamics.
 
-Modular and customizable architecture
+🛠️ Design & Performance
 
-Minimal performance impact
+⚙️ Modular and configurable architecture
+🚀 Optimized for minimal performance impact
+🧩 Clean structure and easy configuration
+🔄 Actively maintained for compatibility and stability
 
-Clean and simple configuration
+The tool is designed to remain lightweight and responsive, even during intense in-game scenarios.
 
-Focus on stability and maintainability
+📌 Project Goals
 
-This project is intended for educational, testing, and research purposes only. Users are responsible for ensuring compliance with the game’s terms of service and applicable rules.
+Improve understanding of in-game mechanics
+
+Assist with gameplay testing and analysis
+
+Provide a flexible tool for experimentation
+
+Maintain clean, readable, and maintainable code
+
+This project avoids unnecessary complexity and focuses on usability and clarity ✨
+
+📄 Disclaimer
+
+🧾 This project is intended for educational, research, and testing purposes only.
+Users are responsible for ensuring their usage complies with the game’s Terms of Service and all applicable rules.
+
+📥 Downloads & Builds
+
+Precompiled builds and releases can be found here:
+👉 https://your-download-link-here.com
+
+(Replace this link with your official release or build page)
