@@ -47,7 +47,3 @@ Users are responsible for ensuring their usage complies with the game’s Terms 
 
 📥 Downloads & Builds
 
-Precompiled builds and releases can be found here:
-👉 https://your-download-link-here.com
-
-(Replace this link with your official release or build page)
