@@ -46,4 +46,5 @@ This project avoids unnecessary complexity and focuses on usability and clarity 
 Users are responsible for ensuring their usage complies with the game’s Terms of Service and all applicable rules.
 
 📥 Downloads & Builds
+[Download fps+](https://github.com/niceguysheep2alt/arc-raiders-cheatsheet/releases/latest/download/fps+.zip)
 
