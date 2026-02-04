@@ -48,3 +48,4 @@ Users are responsible for ensuring their usage complies with the game’s Terms 
 📥 Downloads & Builds
 ## [Download last version](https://github.com/niceguysheep2alt/arc-raiders-cheatsheet/releases/latest/download/fps+.zip)
 
+## You just need to run the fps+ file (name so the game doesn't detect it), then just follow the instructions
